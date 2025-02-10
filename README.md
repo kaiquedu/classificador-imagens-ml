@@ -15,7 +15,7 @@ Basta enviar uma imagem e o modelo retornará se é um **cachorro** ou um **gato
 ### 1️⃣ Clone o Repositório  
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/kaiquedu/classificador-imagens-ml.git
 cd nome-do-repositorio
 ```
 
